@@ -1,2 +1,9 @@
 *.docx
 *.pptx
+*.ubyte
+*.ubyte.gz
+*.jpg
+tmp
+flagged
+mnist
+*.pth
